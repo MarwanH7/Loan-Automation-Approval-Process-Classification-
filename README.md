@@ -53,7 +53,6 @@ Model_1
 
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
 * Base_model_1 score was 69% in terms of accuracy and 78% F1 score, so not much better than just guessing yes everytime, however the goal was an MVP to practice both local & cloud deployment. 
 
 * Model 1 score was 81.3% in terms of accuracy and 88% F1 score, which overal I am happy with, but there is always room for improvment. 
