@@ -17,10 +17,10 @@ The main focus for me was on Deployment (locally and in the cloud) and pipelines
 
 ## EDA 
 
-* Targe variable distribution 68% approval (One can think, this is a base model for accuracy. A vert stupid model that just guess yes would have a 68% accuracy)
+* Targe variable distribution 68% approval (One can of this result as a base model for accuracy. A vert stupid model that just guesses yes would have a 68% accuracy)
 * Applicants with prior credit score get more approvals, yes we can see that this is the case for our data set. 
 * Applicants with graduate education get more approvals, yes but not as derastic as one would assume, very minute difference here
-* Emplyed Applicant have a better chance vs self employed. No, not much of a difference between employed and self employed in the loan approval proprotions 
+* Employed Applicant have a better chance vs self employed. No, not much of a difference between employed and self employed in the loan approval proprotions 
 * Male applicants get more approvals, no not much of a difference in approval between male and female proportions  
 
 
