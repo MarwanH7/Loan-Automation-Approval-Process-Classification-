@@ -1,4 +1,4 @@
-# Mini-project IV
+# Loan Automation Approval Process (Mini_Project)
 
 ### [Assignment](assignment.md)
 
@@ -17,7 +17,7 @@ The main focus for me was on Deployment (locally and in the cloud) and pipelines
 
 ## EDA 
 
-* Targe variable distribution 68% approval (One can of this result as a base model for accuracy. A vert stupid model that just guesses yes would have a 68% accuracy)
+* Targe variable distribution 68% approval (One can of this result as a base model for accuracy. A very stupid model that just guesses yes would have a 68% accuracy)
 * Applicants with prior credit score get more approvals, yes we can see that this is the case for our data set. 
 * Applicants with graduate education get more approvals, yes but not as derastic as one would assume, very minute difference here
 * Employed Applicant have a better chance vs self employed. No, not much of a difference between employed and self employed in the loan approval proprotions 
@@ -27,7 +27,7 @@ The main focus for me was on Deployment (locally and in the cloud) and pipelines
 ## Process
 ### As I started the project a bit later, time was a constraint. So I broke down the process into two steps 
 
-Base_Model_1 (MVP) 
+### Base_Model_1 (MVP) 
 Main focus on setps 5 & 6
 
 1. Simple base model 1
@@ -38,7 +38,7 @@ Main focus on setps 5 & 6
 6. Deploy using flask locally and on AWS VM
 
 
-Model_1 
+### Model_1 
 
 1. Pipleine build
     1. Processing 
